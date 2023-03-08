@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d531cfb5.css",
+    "main.js": "/static/js/main.9cd3b0ed.js",
+    "static/media/Web1.png": "/static/media/Web1.f09e4191ece713890f49.png",
+    "static/media/port.png": "/static/media/port.e8d1136ff860d7c3c25c.png",
+    "static/media/ecomerce.png": "/static/media/ecomerce.9c21d1e985a94d2dd47c.png",
+    "static/media/imagi.jpg": "/static/media/imagi.4a7790286e7264b112f2.jpg",
+    "static/media/bg-dredge.jpg": "/static/media/bg-dredge.9bc229e95115f609b09f.jpg",
+    "static/media/Chukwuebuka Emmanuel Nwakwue.pdf": "/static/media/Chukwuebuka Emmanuel Nwakwue.659e90b82591b0346507.pdf",
+    "static/media/Betking2.png": "/static/media/Betking2.7f28203df493f532be2c.png",
+    "index.html": "/index.html",
+    "main.d531cfb5.css.map": "/static/css/main.d531cfb5.css.map",
+    "main.9cd3b0ed.js.map": "/static/js/main.9cd3b0ed.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d531cfb5.css",
+    "static/js/main.9cd3b0ed.js"
+  ]
+}
